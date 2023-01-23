@@ -1,3 +1,6 @@
+Scrapes all Discord Media from a selected channel of an User Account
+
+
 github.com/xoela
 xyl.lol/z
 
