@@ -9,7 +9,7 @@ discord.py (1.7.3)
 colorama
 
 Please replace your token in config.json.
-Create a folder with "main.py" and "config.json" and in that folder create a folder called "media" (if not included in the zip)
+(I recommend installing the AIO zip thingy) Create a folder with "main.py" and "config.json" and in that folder create a folder called "media" (if not included in the zip) 
 
 If you wish to have a different directory for the media files please change it in line 38
 or (and) if you wish to have more extensions or remove extensions please change them in line 37
