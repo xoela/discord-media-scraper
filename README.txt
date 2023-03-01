@@ -1,6 +1,6 @@
 Scrapes all Discord Media from a selected channel of an User Account
 
-Neccesiary Packages to download
+Neccesiary Packages (pips) to download
 
 discord.py (1.7.3)
 colorama
